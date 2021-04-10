@@ -1,0 +1,18 @@
+/* media width less than 444px */
+@media (max-width: 444.98px){
+    #rowFirsCol{
+        margin-left: -5px !important;
+    }
+}
+
+
+
+/* end of media width less than 444px */
+/* media width less than 498px */
+@media (max-width: 493.98px) { 
+    #rowFirsCol{
+        font-size: 10px;
+        margin-left: -4px;
+    }
+ }
+ /* end of media width less than 498px */
